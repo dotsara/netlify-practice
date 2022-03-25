@@ -10,6 +10,7 @@ I've used Netlify before, but only after it was setup. This repo is to practice 
       * updating `.git/config` wasn't the forcing-function I thought it would be--I wasn't prompted by Terminal to enter my passphrase on that commit.
       * I tried again, this time using `git commit -S -am` but that didn't do it, either. 
       * I'm trying one more time, but after having restarted my machine (my GPG credentials expire upon system restart). Fingers crossed.
+      * Naturally, when I re-read [GitHub's documentation on signing commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits), I see the tip about configuring a local repo to sign commits by default. I don't remember doing this for work, but I'll try it, now!
 
 ## Resources
 
